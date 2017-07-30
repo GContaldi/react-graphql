@@ -1,0 +1,20 @@
+{
+  "name": "---",
+  "version": "---",
+  "description": "A simple GraphQL server",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-register": "^6.24.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
